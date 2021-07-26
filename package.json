@@ -1,0 +1,17 @@
+{
+    "name": "facebookbotmessenger",
+    "version": "1.0.0",
+    "description": "facebook bot messenger for test and learn",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Ahmed Kareem",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "facebook-bot-messenger": "^1.0.9"
+    }
+}
